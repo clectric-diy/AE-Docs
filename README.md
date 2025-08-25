@@ -35,7 +35,7 @@ The [DIY Module Schematic](source/DIY-Kit/DIY-module-schematic.pdf) is available
 
 The [APC-AE](https://clectric.diy/APC-AE) is a classic [Atari Punk Console](https://sdiy.info/wiki/Atari_Punk_Console) adapted to the AE Format.
 
-If you're not ready to take the plunge into AE Modular yet, the [APC](https://clectric.diy/APC) is a stripped down version of the APC-AE, which can be easily converted to fit in your AE Modular rack when you're ready.
+If you're not ready to take the plunge into AE Modular yet, the [APC](https://clectric.diy/APC) is a stripped down version of the APC-AE, which can be easily converted to fit in an AE Modular rack when you're ready.
 
 ### Spark-AE
 

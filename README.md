@@ -16,7 +16,7 @@ Tangible Waves, and others, make hardware modules specifically targeted to the S
 
 The BRAEDBOARD Module is obviously for SynthDIY'ers.
 
-From the site:
+From its documentation:
 > The BRAEDBOARD module contains a breadboard area for solderless electronics prototyping so you can experiment with any kind of analog or digital electronics and make your first steps into electronics, starting with simple circuits for beginners to developing your own module.
 
 Some electronic components are provided with it to get you started with your own [DIY Projects](https://wiki.aemodular.com/#/diy).

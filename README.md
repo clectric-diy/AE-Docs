@@ -1,6 +1,6 @@
 # AE Modular Format
 
-Discovering AE Modular was the impetus of [clectric.diy](https://clectric.diy). The format is designed to be hackable. It's called Abused Electronics (AE) Modular after all.
+Discovering the AE Modular format was the impetus of [clectric.diy](https://clectric.diy). The format is designed to be hackable. It's called Abused Electronics (AE) Modular after all.
 
 Information about the AE Modular format and the modules available for it can be found on the [AE Modular Wiki](https://wiki.aemodular.com/). Including a full [AE Modular Technical Guide](https://wiki.aemodular.com/#/diy/aemodular-technical-guide.md) that provides the specifications of the format.
 

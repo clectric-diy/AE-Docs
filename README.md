@@ -4,7 +4,7 @@ Discovering the AE Modular format was the impetus of [clectric.diy](https://clec
 
 Information about the AE Modular format and the modules available for it can be found on the [AE Modular Wiki](https://wiki.aemodular.com/). Including a full [AE Modular Technical Guide](https://wiki.aemodular.com/#/diy/aemodular-technical-guide.md) that provides the specifications of the format.
 
-There is a [DIY Projects](https://wiki.aemodular.com/#/diy) page for information about building your own modules. Dig deep into that site because there resources available for more that just AE Modular.
+There is a [DIY Projects](https://wiki.aemodular.com/#/diy/) page for information about building your own modules. Dig deep into that site because there resources available for more that just AE Modular.
 
 # Hardware
 
@@ -19,7 +19,7 @@ The BRAEDBOARD Module is obviously for SynthDIY'ers.
 From its documentation:
 > The BRAEDBOARD module contains a breadboard area for solderless electronics prototyping so you can experiment with any kind of analog or digital electronics and make your first steps into electronics, starting with simple circuits for beginners to developing your own module.
 
-Some electronic components are provided with it to get you started with your own [DIY Projects](https://wiki.aemodular.com/#/diy).
+Some electronic components are provided with it to get you started with your own [DIY Projects](https://wiki.aemodular.com/#/diy/).
 
 ### DIY Kit Module
 

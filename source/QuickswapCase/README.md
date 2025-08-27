@@ -8,4 +8,4 @@ To be Quickswap Case compatable, modules must respect the "Keepout Zones".
 
 Here is the specification of the module dimensions supported by the Quickswap Case:
 
-![Quickswap Case Module Dimensions](QuickswapCaseModuleDimensions.pdf)
+![Quickswap Case Module Dimensions](QuickswapCaseModuleDimensions.png)

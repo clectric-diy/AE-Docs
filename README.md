@@ -26,17 +26,3 @@ Some electronic components are provided with it to get you started with your own
 Once you have tested out your circuit on the BRAEDBOARD, you may be ready to put it into your rack. The [DIY Kit](https://wiki.aemodular.com/#/modules/diy-kit) can help.
 
 The [DIY Module Schematic](source/DIY-Kit/DIY-module-schematic.pdf) is available on that site.
-
-### clectric
-
-[clectric.diy](https://clectric.diy) provides open-sourced hardware and software for the SynthDIY Community.
-
-#### APC-AE
-
-The [APC-AE](https://clectric.diy/APC-AE) is a classic [Atari Punk Console](https://sdiy.info/wiki/Atari_Punk_Console) adapted to the AE Format.
-
-If you're not ready to take the plunge into AE Modular yet, the [APC](https://clectric.diy/APC) is a stripped down version of the APC-AE, which can be easily converted to fit in an AE Modular rack when you're ready.
-
-#### Spark-AE
-
-The [Spark-AE](https://clectric.diy/Spark-AE) is an AE Modular format clone of the [Daisy Pod](https://daisy.audio/product/Daisy-Pod/) which is based on the [Daisy Seed](https://daisy.audio/hardware/Seed/) embedded DSP module.

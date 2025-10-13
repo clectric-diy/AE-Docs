@@ -2,11 +2,11 @@
 
 Discovering the AE Modular format was the impetus of [clectric.diy](https://clectric.diy). The format is designed to be hackable. It's called Abused Electronics (AE) Modular after all.
 
-Information about the AE Modular format and the modules available for it can be found on the [AE Modular Wiki](https://wiki.aemodular.com/). Including a full [AE Modular Technical Guide](https://wiki.aemodular.com/#/diy/aemodular-technical-guide.md) that provides the specifications of the format.
+Information about the AE Modular format, and the modules available for it, can be found on the [AE Modular Wiki](https://wiki.aemodular.com/). Including a full [AE Modular Technical Guide](https://wiki.aemodular.com/#/diy/aemodular-technical-guide.md) that provides most of the specifications of the format. Our goal here is to fill some missing pieces and collect clectric.diy community specific information over time.
 
-There is a [DIY Projects](https://wiki.aemodular.com/#/diy/) page for information about building your own modules. Dig deep into that site because there resources available for more that just AE Modular.
+The [AE Modular Wiki](https://wiki.aemodular.com/) also contains information for other [DIY Projects](https://wiki.aemodular.com/#/diy/) for AE modules. Dig deep into that site because there are resources available for more that just AE Modular.
 
-## Hardware
+## Hardware for SynthDIY
 
 Tangible Waves, and others, make hardware modules specifically targeted to the SynthDIY community.
 

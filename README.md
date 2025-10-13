@@ -21,6 +21,10 @@ From its documentation:
 
 Some electronic components are provided with it to get you started with your own [DIY Projects](https://wiki.aemodular.com/#/diy/).
 
+### clectric.diy
+
+Our community has several projects planned for the AE Modular format. These include an [AE version of the classic Atari Punk Console (APC)](https://clectric.diy/APC-AE/) and an [AE version of the Electrosmith Pod based on the Daisy Seed microcontroller](https://clectric.diy/Spark-AE/).
+
 #### DIY Kit Module
 
 Once you have tested out your circuit on the BRAEDBOARD, you may be ready to put it into your rack. The [DIY Kit](https://wiki.aemodular.com/#/modules/diy-kit) can help.

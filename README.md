@@ -12,7 +12,7 @@ Our goal here is to fill some missing pieces and collect clectric.diy community 
 
 When designing modules for the AE Modular format, the most challenging physical constraint is the stack height.
 
-The format reference includes a 15mm standoff at the bottom and an 8mm standoff between the panel and the pcb. However, there are reasons that you may want to bend, or even break, this standard. This is not uncommon with other modules. For instance the ubiquitous "Thonkiconn" jacks fit best with a 10mm standoff between the panel and pcb. 
+The format reference has a total stack height of approximately 26mm and includes a 15mm standoff at the bottom and an 8mm standoff between the panel and the pcb. There are reasons that you may want to bend, or even break, this standard. For instance the ubiquitous "Thonkiconn" jacks fit best with a 10mm standoff between the panel and pcb. Changes are not uncommon with other modules.  
 
 Obviously, to keep the overall height within the standard for the format, every mm that you add to the upper standoff should be removed from the lower one. The two major caveats here are:
 1. you have to accomotate the height of the bus connector with any changes that you make, and
